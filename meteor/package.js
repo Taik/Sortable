@@ -1,8 +1,8 @@
 // Package metadata file for Meteor.js
 'use strict';
 
-var packageName = 'rubaxa:sortable';  // https://atmospherejs.com/rubaxa/sortable
-var gitHubPath = 'RubaXa/Sortable';  // https://github.com/RubaXa/Sortable
+var packageName = 'thinh:sortable';  // https://atmospherejs.com/thinh/sortable
+var gitHubPath = 'Taik/Sortable';  // https://github.com/Taik/Sortable
 var npmPackageName = 'sortablejs';  // https://www.npmjs.com/package/sortablejs - optional but recommended; used as fallback if GitHub fails
 
 /* All of the below is just to get the version number of the 3rd party library.
